@@ -416,6 +416,7 @@ pub mod fmt;
 pub mod prelude;
 pub mod pwm;
 pub mod qei;
+pub mod rng;
 pub mod serial;
 pub mod spi;
 pub mod timer;
